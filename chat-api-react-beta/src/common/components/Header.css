@@ -1,0 +1,10 @@
+.header {
+    position: absolute;
+    top: 1px;
+    width: 100vw;
+    background-color:whitesmoke;
+    text-align: left;
+    padding-left: 3rem;
+    display: flex;
+    justify-content: space-evenly;
+}
